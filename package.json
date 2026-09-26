@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s05o81k",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~02bn",
+  "name": "bot",
+  "description": "AI CHAT BOT(limited)",
   "scripts": {
     "start": "vite",
     "dev": "vite",
